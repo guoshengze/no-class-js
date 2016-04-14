@@ -1,7 +1,7 @@
-对比一下 [https://github.com/huya-fed/class/blob/master/README.md](https://github.com/huya-fed/class/blob/master/README.md "老龙的简易的JS OOP 类和继承")
+对比一下老龙的简易的JS OOP 类和继承 [https://github.com/huya-fed/class/blob/master/README.md](https://github.com/huya-fed/class/blob/master/README.md "老龙的简易的JS OOP 类和继承")
 
-对象行为委托或许更简单些，不用加载外部库，思路也更简单些。
-虽然它看似只是一个 Object.create，但可以实现同样功能且通俗易懂，何乐而不为。
+## 对象行为委托或许更简单些，不用加载外部库，思路也更简单些。 ##
+## 虽然它看似只是一个 Object.create，但可以实现同样功能且通俗易懂，何乐而不为。 ##
 
 
 兼容oe7、8
