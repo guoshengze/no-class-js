@@ -2,7 +2,7 @@
  * @authors  guoshengze
  * @date    2016-04-14 16:01:14
  */
-
+`
 // 兼容oe7、8
 if(!Object.create){
 	Object.create = function(o){
@@ -37,7 +37,7 @@ var FlyableRedPig = Object.create(RedPig);
 	FlyableRedPig.swim = function(){
 		alert("我还会游泳！");
 	};
-	
+
 // 创建实例
 var pig = Object.create(FlyableRedPig);
 	pig.initialize("飞天红猪侠");
@@ -45,3 +45,4 @@ var pig = Object.create(FlyableRedPig);
 pig.talk();
 pig.fly();
 pig.swim();
+`
